@@ -1,0 +1,30 @@
+.page {
+    background-color: #2A2C2F;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logo-container {
+    padding-top: 34px;
+    display: flex;
+    justify-content: center;
+}
+
+/* .header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+.header__title {
+    display: flex;
+    justify-content: center;
+}
+
+.header__subtitle {
+    display: flex;
+    justify-content: center;
+}
