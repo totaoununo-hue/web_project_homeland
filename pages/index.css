@@ -1,30 +1,7 @@
-.page {
-    background-color: #2A2C2F;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-}
-
-.logo-container {
-    padding-top: 34px;
-    display: flex;
-    justify-content: center;
-}
-
-/* .header {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-} */
-
-.header__title {
-    display: flex;
-    justify-content: center;
-}
-
-.header__subtitle {
-    display: flex;
-    justify-content: center;
-}
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(../blocks/page.css);
+@import url(../blocks/body.css);
+@import url(../blocks/header.css);
+@import url(../blocks/content.css);
+@import url(../blocks/footer.css);
